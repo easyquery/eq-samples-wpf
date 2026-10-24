@@ -26,21 +26,21 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Korzh.EasyQuery.Db" Version="7.5.0" />
-    <PackageReference Include="Korzh.EasyQuery.Wpf" Version="7.5.0" />
-    <PackageReference Include="Korzh.EasyQuery.SqlServerGate" Version="7.5.0" />
-    <PackageReference Include="Korzh.EasyQuery.DataExport" Version="7.5.0" />
-    <PackageReference Include="Korzh.EasyQuery.EntityFrameworkCore.Relational" Version="7.5.0" />
+    <PackageReference Include="Korzh.EasyQuery.Db" />
+    <PackageReference Include="Korzh.EasyQuery.Wpf" />
+    <PackageReference Include="Korzh.EasyQuery.SqlServerGate" />
+    <PackageReference Include="Korzh.EasyQuery.DataExport" />
+    <PackageReference Include="Korzh.EasyQuery.EntityFrameworkCore.Relational" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Korzh.DbUtils.Import" Version="1.4.3" />
-    <PackageReference Include="Korzh.DbUtils.SqlServer" Version="1.4.3" />
+    <PackageReference Include="Korzh.DbUtils.Import" />
+    <PackageReference Include="Korzh.DbUtils.SqlServer" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="EasyData.Exporters.ClosedXML" Version="1.6.0" />
+    <PackageReference Include="EasyData.Exporters.ClosedXML" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="App.xaml.cs">

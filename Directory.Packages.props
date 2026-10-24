@@ -1,0 +1,21 @@
+<Project>
+  <!-- Package versions for every project in this repository (NuGet central package management). -->
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup Label="EasyQuery and EasyData">
+    <PackageVersion Include="EasyData.Exporters.ClosedXML" Version="1.6.0" />
+    <PackageVersion Include="Korzh.EasyQuery.DataExport" Version="7.5.0" />
+    <PackageVersion Include="Korzh.EasyQuery.Db" Version="7.5.0" />
+    <PackageVersion Include="Korzh.EasyQuery.EntityFramework6" Version="7.5.0" />
+    <PackageVersion Include="Korzh.EasyQuery.EntityFrameworkCore.Relational" Version="7.5.0" />
+    <PackageVersion Include="Korzh.EasyQuery.SqlServerGate" Version="7.5.0" />
+    <PackageVersion Include="Korzh.EasyQuery.Wpf" Version="7.5.0" />
+  </ItemGroup>
+  <ItemGroup Label="Other packages">
+    <PackageVersion Include="EntityFramework" Version="6.2.0" />
+    <PackageVersion Include="Korzh.DbUtils.Import" Version="1.4.3" />
+    <PackageVersion Include="Korzh.DbUtils.SqlServer" Version="1.4.3" />
+    <PackageVersion Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.1" />
+  </ItemGroup>
+</Project>
