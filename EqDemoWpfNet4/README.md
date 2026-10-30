@@ -30,14 +30,13 @@ Part of [EasyQuery samples for WPF](../README.md).
 
 ## License key
 
-EasyQuery needs a license key. Get a free 30-day trial key on
-[korzh.com](https://korzh.com/easyquery?utm_source=github&utm_medium=sample&utm_campaign=eq-samples-wpf&utm_content=EqDemoWpfNet4#get-started).
-
-Set it in code, before the EasyQuery controls are created (see `EasyQueryPage`):
+You don't need one to try the samples. Without a key they show a short reminder that EasyQuery is in trial mode. A purchased license key removes it; set it in code, before the EasyQuery controls are created (see `EasyQueryPage`):
 
 ```csharp
-Korzh.EasyQuery.Wpf.License.Key = "your trial key goes here";
+Korzh.EasyQuery.Wpf.License.Key = "your key goes here";
 ```
+
+Ready to buy? See the [licensing options on korzh.com](https://korzh.com/easyquery?utm_source=github&utm_medium=sample&utm_campaign=eq-samples-wpf&utm_content=EqDemoWpfNet4#wpf-edition).
 
 ## Sample database
 
