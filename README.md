@@ -9,7 +9,7 @@ to .NET applications. The samples in this repository show it on WPF.
 
 | Sample | Scenario | Stack |
 |---|---|---|
-| [Query builder (.NET)](EqDemoWpfNet6) | Query builder | .NET 6 · WPF · C# |
+| [Query builder (.NET)](EqDemoWpfNet6) | Query builder | .NET 10 · WPF · C# |
 | [Query builder (.NET Framework)](EqDemoWpfNet4) | Query builder | .NET Framework 4.7.2 · WPF · C# |
 
 * **Query builder.** A desktop query builder: users pick the columns and conditions in the EasyQuery controls, and the app builds the query and shows the result.
