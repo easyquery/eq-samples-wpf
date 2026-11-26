@@ -5,12 +5,12 @@
   </PropertyGroup>
   <ItemGroup Label="EasyQuery and EasyData">
     <PackageVersion Include="EasyData.Exporters.ClosedXML" Version="1.6.0" />
-    <PackageVersion Include="Korzh.EasyQuery.DataExport" Version="7.5.0" />
-    <PackageVersion Include="Korzh.EasyQuery.Db" Version="7.5.0" />
-    <PackageVersion Include="Korzh.EasyQuery.EntityFramework6" Version="7.5.0" />
-    <PackageVersion Include="Korzh.EasyQuery.EntityFrameworkCore.Relational" Version="7.5.0" />
-    <PackageVersion Include="Korzh.EasyQuery.SqlServerGate" Version="7.5.0" />
-    <PackageVersion Include="Korzh.EasyQuery.Wpf" Version="7.5.0" />
+    <PackageVersion Include="Korzh.EasyQuery.DataExport" Version="7.5.1" />
+    <PackageVersion Include="Korzh.EasyQuery.Db" Version="7.5.1" />
+    <PackageVersion Include="Korzh.EasyQuery.EntityFramework6" Version="7.5.1" />
+    <PackageVersion Include="Korzh.EasyQuery.EntityFrameworkCore.Relational" Version="7.5.1" />
+    <PackageVersion Include="Korzh.EasyQuery.SqlServerGate" Version="7.5.1" />
+    <PackageVersion Include="Korzh.EasyQuery.Wpf" Version="7.5.1" />
   </ItemGroup>
   <ItemGroup Label="Other packages">
     <PackageVersion Include="EntityFramework" Version="6.2.0" />

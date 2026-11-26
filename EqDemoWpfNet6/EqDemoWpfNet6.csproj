@@ -12,7 +12,7 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App_Data\Empolyee of the year.json">
+    <None Include="App_Data\Employee of the year.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <Content Include="App_Data\EqDemoData.zip">
